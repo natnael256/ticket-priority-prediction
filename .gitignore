@@ -1,0 +1,11 @@
+# Dataset (download from Kaggle, see README)
+*.csv
+
+# Generated output
+output/
+
+# Virtual environments
+venv/
+.venv/
+
+__pycache__/
